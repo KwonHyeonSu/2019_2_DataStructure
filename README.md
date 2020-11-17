@@ -5,4 +5,4 @@
 >   ### [Bubble_Sort.c](https://github.com/KwonHyeonSu/2019_2_DataStructure/blob/master/Bubble_Sort)
 >   ### [Insertion_Sort.c](https://github.com/KwonHyeonSu/2019_2_DataStructure/blob/master/Insertion_Sort)
 >   ### [Selection_Sort.c](https://github.com/KwonHyeonSu/2019_2_DataStructure/blob/master/Selection_Sort)  
->   ### [Sequential_Sort.c](https://github.com/KwonHyeonSu/2019_2_DataStructure/blob/master/Sequential_Sort)
+>   ### [Sequential_Search.c](https://github.com/KwonHyeonSu/2019_2_DataStructure/blob/master/Sequential_Search)
